@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container--form {
+    display: flex;
+    width: 60vw;
+    height: 90vh;
+    background-color: aqua;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20px;
+}
+.container--form--h1 {
+}
+.container--form label {
+    width: 35vw;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 2rem;
+    padding: 5px;
+}
+.container--form label input {
+    width: 20vw;
+    padding: 5px;
+    margin: 10px;
+    outline: none;
+    border: 1px solid gray;
+    border-radius: 10px
+}
+.container--form--msg {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container--form--msg textarea {
+    width: 25vw;
+    height: 15vh;
+    padding: 5px;
+    margin: 10px;
+    outline: none;
+    border: 1px solid gray;
+    border-radius: 10px;
+    max-width: 30vw;
+    max-height: 35vh;
+    min-width: 25vw;
+    min-height: 10vh;
+}
+.container--form--btn {
+    background-color: darkcyan;
+    margin: 20px;
+    width: 25vw;
+    height: 7vh;
+    border-radius: 10px;
+    border: none;
+    font-size: 2rem;
+    padding: 10px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+}
