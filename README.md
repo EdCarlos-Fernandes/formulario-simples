@@ -1,9 +1,9 @@
-<div align="center">
-  <img src="https://github.com/seu-usuario/aqui-vai-uma-imagem-legal.png" alt="Logo do Projeto">
-</div>
+# Formulario simples com validação
 
 ## Características
 
+- captura os dados
+- Retorna os dados capturados para o console
 - Experiência única
 - Desempenho extraordinário
 - Interface intuitiva
