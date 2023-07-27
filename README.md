@@ -12,5 +12,5 @@
 
 - Email: edcarlosfernandes017@gmail.com
 
-Divirta-se e aproveite o incrível mundo do Projeto Incrível!
+Divirta-se e aproveite o Projeto!
 
